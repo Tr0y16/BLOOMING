@@ -156,9 +156,9 @@ function bloomFlowers(){
     area.innerHTML="";
     document.getElementById("msg").innerHTML="";
     let messages = [
-        "Your day is about to bloom with happiness!",
-        "Just like flowers, you make the world beautiful!",
-        "May love and joy surround you today!"
+        "Love is like a flower that grows slowly and beautifully. It starts small but becomes stronger with care and attention.",
+        "Just like flowers, you make the world beautifulJust like flowers need water and sunlight, love needs trust, kindness, and patience to grow well.",
+        "Just like flowers need water and sunlight, love needs trust, kindness, and patience to grow well."
     ];
     messages.forEach((msg,i)=>{
         setTimeout(()=>{
